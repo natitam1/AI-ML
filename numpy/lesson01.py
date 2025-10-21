@@ -1,8 +1,7 @@
 import numpy as np
 
-my_array = np.array([[1, 2, 3, 4],
-                     [5, 6, 7, 8],
-                     [9, 10, 11, 12],
-                     [13, 14, 15, 16]])
+arr = np.array([[1, 2, 3], [4, 5, 6], [7, 8, 9], [10, 11, 12], [13, 14, 15], [16, 17, 18]])
 
-print(my_array[1:3, 1:3])
+newarr = np.array_split(arr, 3,axis=1)
+
+print(newarr[0])
