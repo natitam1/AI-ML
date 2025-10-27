@@ -1,7 +1,8 @@
 import pandas as pd
 
-print(pd.options.display.max_rows)
+df = pd.read_csv("data.csv")
 
-df = pd.read_csv('data.csv')
+print(df.to_string())
 
-print(df.tail()) 
+new_df = df.dropna()
+print(new_df)

@@ -1,0 +1,41 @@
+ID,Name,Age,Gender,Department,Math,Physics,Chemistry,English,Attendance,Country
+1,John Doe,19,Male,Engineering,78,85,80,67,92,USA
+2,Jane Smith,20,Female,Science,88,91,89,84,95,UK
+3,Ali Musa,21,Male,Engineering,65,70,75,72,88,Kenya
+4,Chen Li,22,Female,Science,90,88,94,86,97,China
+5,Lucas Brown,19,Male,Arts,55,60,58,62,75,Canada
+6,Maria Garcia,20,Female,Engineering,82,85,88,90,98,Spain
+7,Ahmed Noor,21,Male,Science,79,83,81,77,90,Egypt
+8,Emily Clark,19,Female,Arts,69,65,70,73,85,USA
+9,David Kim,22,Male,Engineering,92,95,94,89,99,South Korea
+10,Sofia Rossi,20,Female,Science,84,86,83,85,92,Italy
+11,Noah Wilson,23,Male,Arts,50,58,52,55,70,Canada
+12,Emma Johnson,19,Female,Engineering,88,90,86,91,94,USA
+13,Arjun Patel,21,Male,Science,73,75,78,80,85,India
+14,Lina Haddad,22,Female,Engineering,95,97,93,90,100,UAE
+15,Michael Lee,20,Male,Arts,64,68,65,70,80,USA
+16,Olivia Martin,19,Female,Science,81,84,79,88,93,UK
+17,Samuel Green,22,Male,Engineering,85,82,87,80,90,USA
+18,Aisha Ahmed,21,Female,Science,77,80,76,75,89,Egypt
+19,Pedro Silva,23,Male,Arts,58,60,59,61,78,Brazil
+20,Hannah Kim,20,Female,Engineering,91,93,90,88,96,South Korea
+21,Lucas Brown,19,Male,Arts,55,60,58,62,75,Canada
+22,John Doe,19,Male,Engineering,78,85,80,67,92,USA
+23,Isabella Lopez,22,Female,Science,83,86,88,84,91,Mexico
+24,Ali Musa,21,Male,Engineering,65,70,75,72,88,Kenya
+25,Emma Johnson,19,Female,Engineering,88,90,86,91,94,USA
+26,Thomas Wright,23,Male,Arts,60,62,59,65,74,UK
+27,Mina Park,20,Female,Science,89,92,87,90,95,South Korea
+28,John Doe,19,Male,Engineering,78,85,80,67,92,USA
+29,Liam Scott,21,Male,Engineering,70,75,72,69,86,Canada
+30,Noura Hassan,22,Female,Science,93,95,94,91,99,Egypt
+31,George Adams,20,Male,Arts,57,61,59,63,77,UK
+32,Elena Petrova,21,Female,Engineering,85,87,82,83,90,Russia
+33,Robert King,23,Male,Science,79,83,85,81,88,USA
+34,Sara Omar,19,Female,Arts,68,70,69,72,84,Egypt
+35,David Kim,22,Male,Engineering,92,95,94,89,99,South Korea
+36,Maria Garcia,20,Female,Engineering,82,85,88,90,98,Spain
+37,Chen Li,22,Female,Science,90,88,94,86,97,China
+38,Aisha Ahmed,21,Female,Science,77,80,76,75,89,Egypt
+39,Lucas Brown,19,Male,Arts,55,60,58,62,75,Canada
+40,Noah Wilson,23,Male,Arts,50,58,52,55,70,Canada
